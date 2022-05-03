@@ -1,0 +1,68 @@
+#header{
+    background-color: rgb(242, 147, 31);
+    padding: 1%;
+    margin: 0 0 0 50;
+}
+#restus{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 32px;
+    font-style: italic;
+    font-weight: bolder;
+    margin-left: 700px;
+}
+#nav-bar{
+    float: right;
+    padding: 1rem;
+    list-style: none;
+    text-decoration: none;
+    color: aliceblue;
+
+}
+#header-img{
+    width: 100px;
+    border-radius: 50%;
+}
+#intro{
+    margin: 20px 200px 20px 200px ;
+}
+#about{
+    margin: 20px 200px 20px 200px ;
+
+}
+#contact{
+    font-weight: bold;
+    font-style: italic;
+    color: brown;
+    margin: 20px 200px 20px 200px ;
+}
+#email{
+   
+    margin-left: 700px;
+}
+body{
+    background-color: bisque;
+}
+#video{
+    margin-left: 600px;
+}
+.heading-1{
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    margin: 20px 200px 20px 200px ;
+
+}
+.heading-2{
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    margin: 20px 200px 20px 200px ;
+
+}
+.heading-3{
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    margin: 20px 200px 20px 200px ;
+
+}
