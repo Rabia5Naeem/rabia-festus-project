@@ -1,4 +1,4 @@
-#header{
+header{
     background-color: rgb(254, 159, 43);
     padding: 1%;
     margin: 0 0 0 50;
@@ -16,6 +16,9 @@
     text-decoration: none;
     background-color: rgb(254, 159, 43);
 }  
+.nav-link{
+    font: bold;
+}
 #form{
     padding: 20px;
 } 
