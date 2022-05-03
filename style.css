@@ -1,5 +1,5 @@
 #header{
-    background-color: rgb(242, 147, 31);
+    background-color: rgb(254, 159, 43);
     padding: 1%;
     margin: 0 0 0 50;
 }
@@ -12,12 +12,16 @@
 }
 #nav-bar{
     float: right;
-    padding: 1rem;
+   
     list-style: none;
     text-decoration: none;
-    color: aliceblue;
+    background-color: rgb(254, 159, 43);
+}  
+#form{
+    padding: 20px;
+} 
+    
 
-}
 #header-img{
     width: 100px;
     border-radius: 50%;
